@@ -56,6 +56,10 @@ https://github.com/maedaak/taxCorrection4Book/blob/main/test_list.txt
 「手作業で補正する端数金額」は、result.csvの処理結果で補正しきれなかった端数です（マイナスになることもあります）。
 result.csvに対し、この端数を手作業で割り振ってください。
 
+## ご利用にあたっての注意
+このプログラムは自己責任にてお使いくだささい。
+また、小数点の扱いについては高精度を求めた処理にはしていませんので、よろしくご了解願います。
 
+Maeda Akira
 
 
