@@ -33,7 +33,8 @@ https://github.com/maedaak/taxCorrection4Book/blob/main/taxCorrection4Book.ipynb
 タブ区切りテキストファイルとして処理対象の書籍一覧を用意します。
 最低限必要なのは書籍ごとのユニークな番号（1からの連番でも資料な番号でも何でもよい）と、個々の書籍の税抜価格です。
 書籍の税抜価格はzeinukiKakakuとして入れてください。
-以下にサンプルがあります。
+
+サンプルファイル
 https://github.com/maedaak/taxCorrection4Book/blob/main/test_list.txt
 
 ### 請求総額設定
